@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "title": "My first note",
+      "body": "lorem",
+      "id": 1
+    },
+    {
+      "title": "My first note",
+      "body": "lorem",
+      "id": 2
+    },
+    {
+      "title": "Second note",
+      "body": "Other note",
+      "id": 3
+    },
+    {
+      "title": "Quarto título",
+      "body": "Corpo da nota",
+      "id": 4
+    }
+  ]
+}
